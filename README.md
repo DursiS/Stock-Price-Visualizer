@@ -1,2 +1,1 @@
-# Stock-Price-Visualizer
-Plots a visual of a given ticker according to graph preferences.
+Plots a visual of a given ticker according to graph preferences. Gives the user the choice of any popular stock. Prompts for a desired period and interval. Then plots a graph of the stock's performance over the desired timeframe in the desired intervals.
